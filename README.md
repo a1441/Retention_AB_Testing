@@ -1,6 +1,6 @@
 # Statistical Tests Notebook
 
-This repository contains a Jupyter Notebook (`Statistical Tests.ipynb`) that provides an overview of statistical tests, including the hypergeometric test and Pearson's chi-squared test.
+This repository contains a Jupyter Notebook (`Statistical Tests.ipynb`) that provides an overview of statistical tests, including the hypergeometric Fisher's test and Pearson's chi-squared test.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ This repository contains a Jupyter Notebook (`Statistical Tests.ipynb`) that pro
 
 Statistical tests are essential tools in data analysis and hypothesis testing. This Jupyter Notebook explores two commonly used statistical tests: the hypergeometric test and Pearson's chi-squared test. These tests help analyze data and make inferences about populations based on sample data.
 
-## Hypergeometric Test
+## Fisher's Test
 
 The hypergeometric test is a statistical test used to determine the probability of drawing a specific number of successes from a finite population without replacement. This test is often used in situations where the sample size is small, and it's necessary to calculate probabilities based on fixed marginal totals using the hypergeometric distribution.
 
